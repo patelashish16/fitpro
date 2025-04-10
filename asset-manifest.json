@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/fitpro/static/css/main.98dfa6a2.css",
-    "main.js": "/fitpro/static/js/main.1de0c209.js",
-    "static/media/uploadVideo.png": "/fitpro/static/media/uploadVideo.27445622a68fa0f6adec.png",
-    "index.html": "/fitpro/index.html",
-    "main.98dfa6a2.css.map": "/fitpro/static/css/main.98dfa6a2.css.map",
-    "main.1de0c209.js.map": "/fitpro/static/js/main.1de0c209.js.map"
+    "main.css": "/static/css/main.98dfa6a2.css",
+    "main.js": "/static/js/main.5800089a.js",
+    "static/media/uploadVideo.png": "/static/media/uploadVideo.27445622a68fa0f6adec.png",
+    "index.html": "/index.html",
+    "main.98dfa6a2.css.map": "/static/css/main.98dfa6a2.css.map",
+    "main.5800089a.js.map": "/static/js/main.5800089a.js.map"
   },
   "entrypoints": [
     "static/css/main.98dfa6a2.css",
-    "static/js/main.1de0c209.js"
+    "static/js/main.5800089a.js"
   ]
 }
